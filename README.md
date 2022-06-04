@@ -19,7 +19,7 @@
 |:--:|
 | *SMC OP steps in one station.*|
 
-Details of the dataset construction, model architecture, and experimental results can be found in [following link colab](https://colab.research.google.com/drive/1RtTYonaJ7ASX_ZMzcV3t_0jNktheKQF9?usp=sharing).
+First, I test model with availabel dataset. Details of the dataset construction, model architecture, and experimental results can be found in [following link colab](https://colab.research.google.com/drive/1RtTYonaJ7ASX_ZMzcV3t_0jNktheKQF9?usp=sharing).
 
 ---
 
