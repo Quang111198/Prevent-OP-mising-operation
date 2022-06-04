@@ -8,7 +8,7 @@
 1. [Training & Evaluation](#training-and-evaluation)
 1. [Weakpoint](#weak-point)
 1. [Improve ideas](#improve-ideas)
-1. [Result](#video)
+1. [Result](#result)
 
 # SMC: Smart Cell 
 
@@ -83,7 +83,7 @@ I tested and see LRCN is the most suitable with my data.
 
 ---
 
-### Video
+### Result 
 
 Can't run here, pls download to see result!!! [here](https://github.com/Quang111198/Prevent-OP-mising-operation/tree/main/vid)
 
