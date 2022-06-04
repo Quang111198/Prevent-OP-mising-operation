@@ -13,3 +13,5 @@
 - In this project, I divided OP's action into this station to 3 steps.
 
 | ![step 1.PNG](./img/step 1.PNG) |
+|:--:|
+| *SMC OP steps in one station.*|
