@@ -59,6 +59,4 @@ Flowchart:
 
 1. Training using LRCN model [LRCN paper](https://arxiv.org/abs/1411.4389?source=post_page---------------------------)
 
-Please redirect to [***Color Branch***](./Color) or [***Pattern Branch***](./Pattern) for further details.
-
 ---
