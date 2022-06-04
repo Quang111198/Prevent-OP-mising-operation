@@ -61,3 +61,22 @@ Flowchart:
 I tested and see LRCN is the most suitable with my data.
 
 ---
+
+### Weak point:
+
+1. With actions not label, machine still classify in 3 classes. 
+
+2. Must improve algorithm if have noise like: other person or hand appear in action areas.
+
+3. What happen if stuck in line.
+
+---
+
+### Improve ideas:
+
+1. Tracking OP or hand (sort, deepsort, byte-track).
+
+2. Add label play in break time. 
+
+
+
