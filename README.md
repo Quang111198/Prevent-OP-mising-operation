@@ -15,3 +15,5 @@
 | ![steps.PNG](https://github.com/Quang111198/Prevent-OP-mising-operation/blob/7a47f832b87a6485a888dbe27d081140fa761f22/img/steps.PNG)|
 |:--:|
 | *SMC OP steps in one station.*|
+
+Details of the dataset construction, model architecture, and experimental results can be found in [following link]([https://arxiv.org/abs/2104.01867](https://colab.research.google.com/drive/1RtTYonaJ7ASX_ZMzcV3t_0jNktheKQF9?usp=sharing)):
