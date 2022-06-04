@@ -80,5 +80,9 @@ I tested and see LRCN is the most suitable with my data.
 
 2. Add label "play" in break time. 
 
+---
+
+<p>
+  <img src="https://github.com/Quang111198/Prevent-OP-mising-operation/blob/0f549a18830d067b604f6d6ac04b7a847ca2c998/vid/checker.mp4" width="100%">
 
 
