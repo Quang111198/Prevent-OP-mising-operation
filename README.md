@@ -16,10 +16,36 @@
 |:--:|
 | *SMC OP steps in one station.*|
 
-Details of the dataset construction, model architecture, and experimental results can be found in [following link colab](https://colab.research.google.com/drive/1RtTYonaJ7ASX_ZMzcV3t_0jNktheKQF9?usp=sharing)
+Details of the dataset construction, model architecture, and experimental results can be found in [following link colab](https://colab.research.google.com/drive/1RtTYonaJ7ASX_ZMzcV3t_0jNktheKQF9?usp=sharing).
 
 ---
 
 ### Datasets
 
 I introduce ✨ 2 datasets: **UCF50**, **UCF101** datasets. Besides, this is my dataset [OP's step Dataset](https://www.dropbox.com/s/u3n76duuzbw537p/SMC_Project.rar?dl=0).
+
+I will keep my dataset on Dropbox until out of space. Hope it can help u!!! 
+
+---
+
+### Getting Started
+
+##### Requirements
+
+- python
+- tensorflow
+- os-sys
+- sklearn
+- opencv-python
+
+##### Installation
+
+``` sh
+# clone the repo
+git clone https://github.com/Quang111198/Prevent-OP-mising-operation.git
+cd Prevent-OP-mising-operation
+```
+
+##### Usage
+
+➡️ *You can now try it in Google Colab [![Open in Colab](https://colab.research.google.com/drive/1RtTYonaJ7ASX_ZMzcV3t_0jNktheKQF9?hl=vi#scrollTo=OK8nZDQEKLgU)*
