@@ -48,4 +48,4 @@ cd Prevent-OP-mising-operation
 
 ##### Usage
 
-➡️ *You can now try it in Google Colab [![Open in Colab](https://colab.research.google.com/drive/1RtTYonaJ7ASX_ZMzcV3t_0jNktheKQF9?hl=vi#scrollTo=OK8nZDQEKLgU)*
+➡️ *You can now try it in Google Colab [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RtTYonaJ7ASX_ZMzcV3t_0jNktheKQF9?usp=sharing)*
