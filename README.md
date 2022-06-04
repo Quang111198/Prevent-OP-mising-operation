@@ -1,6 +1,6 @@
 ##### Table of Content
 
-1. [Introduction](#cpm-color-pattern-makeup-transfer)
+1. [Introduction](#SMC-Smart-Cell)
 1. [Datasets](#datasets)
 1. [Getting Started](#getting-started)
 	- [Requirements](#requirements)
