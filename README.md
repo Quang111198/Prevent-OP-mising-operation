@@ -13,7 +13,7 @@
 # SMC: Smart Cell 
 
 - SMC is project to manage OP in factory, manager can monitor, measure OP's time study to balance line & prevent skip operation.
-- In this project, I divided OP's action into to 3 steps.
+- In this project, I divided OP's action into 3 steps.
 
 | ![steps.PNG](https://github.com/Quang111198/Prevent-OP-mising-operation/blob/7a47f832b87a6485a888dbe27d081140fa761f22/img/steps.PNG)|
 |:--:|
