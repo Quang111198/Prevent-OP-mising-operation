@@ -57,7 +57,7 @@ Flowchart:
 
 1. Data preparation: resized height & width each video frame, specify the number of frames of a video .
 
-2. Training using LRCN model [LRCN paper](https://arxiv.org/abs/1411.4389?source=post_page---------------------------). Besides, you can test [ConvLSTM](https://arxiv.org/abs/1506.04214v1) or [Bi-LSTM](https://paperswithcode.com/method/bilstm).
+2. Training using LRCN model [LRCN paper](https://arxiv.org/abs/1411.4389?source=post_page---------------------------). Besides, you can test [ConvLSTM](https://arxiv.org/abs/1506.04214v1) or [Bi-LSTM](https://paperswithcode.com/method/bilstm). 
 I tested and see LRCN is the most suitable with my data.
 
 ---
