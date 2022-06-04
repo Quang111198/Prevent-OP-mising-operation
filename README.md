@@ -57,7 +57,7 @@ Flowchart:
 
 1. Data preparation: resized height & width each video frame, specify the number of frames of a video .
 
-1. Training using LRCN model ([click here to read more](https://arxiv.org/abs/1411.4389?source=post_page---------------------------)
+1. Training using LRCN model [LRCN paper](https://arxiv.org/abs/1411.4389?source=post_page---------------------------)
 
 Please redirect to [***Color Branch***](./Color) or [***Pattern Branch***](./Pattern) for further details.
 
