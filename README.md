@@ -8,6 +8,7 @@
 1. [Training & Evaluation](#training-and-evaluation)
 1. [Weakpoint](#weak-point)
 1. [Improve ideas](#improve-ideas)
+1. [Result](#video)
 
 # SMC: Smart Cell 
 
