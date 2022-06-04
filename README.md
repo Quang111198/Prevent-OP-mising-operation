@@ -82,7 +82,7 @@ I tested and see LRCN is the most suitable with my data.
 
 ---
 
-<p>
-  <img src="https://github.com/Quang111198/Prevent-OP-mising-operation/blob/0f549a18830d067b604f6d6ac04b7a847ca2c998/vid/checker.mp4" width="100%">
+### Video
 
+Can't run here, pls download to see result!!! [here](https://github.com/Quang111198/Prevent-OP-mising-operation/tree/main/vid)
 
