@@ -6,6 +6,8 @@
 	- [Requirements](#requirements)
 	- [Usage Example](#usage)
 1. [Training & Evaluation](#training-and-evaluation)
+1. [Weakpoint](#weak-point)
+1. [Improve ideas](#improve-ideas)
 
 # SMC: Smart Cell 
 
@@ -76,7 +78,7 @@ I tested and see LRCN is the most suitable with my data.
 
 1. Tracking OP or hand (sort, deepsort, byte-track).
 
-2. Add label play in break time. 
+2. Add label "play" in break time. 
 
 
 
