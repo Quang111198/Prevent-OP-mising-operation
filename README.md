@@ -25,7 +25,7 @@ First, I test model with availabel dataset. Details of the dataset construction,
 
 ### Datasets
 
-I introduce ✨ 2 datasets: **UCF50**, **UCF101** datasets. Besides, this is my dataset [OP's step Dataset](https://www.dropbox.com/s/u3n76duuzbw537p/SMC_Project.rar?dl=0).
+I introduce ✨ 2 datasets: **UCF50**, **UCF101**. Besides, this is my dataset [OP's step Dataset](https://www.dropbox.com/s/u3n76duuzbw537p/SMC_Project.rar?dl=0).
 
 I will keep my dataset on Dropbox until out of space. Hope it can help u!!! 
 
@@ -51,7 +51,7 @@ cd Prevent-OP-mising-operation
 
 ##### Usage
 
-➡️ *You can now try it in Google Colab [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RtTYonaJ7ASX_ZMzcV3t_0jNktheKQF9?usp=sharing)*
+➡️ *You can now try test UCF50 in Google Colab [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RtTYonaJ7ASX_ZMzcV3t_0jNktheKQF9?usp=sharing)*
 
 ---
 
