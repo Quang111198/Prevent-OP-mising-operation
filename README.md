@@ -91,5 +91,5 @@ Can't run here, pls download to see result!!! [here](https://github.com/Quang111
 
 ### Reference
 
-Human Activity Recognition using TensorFlow (CNN + LSTM) [link](https://bleedai.com/human-activity-recognition-using-tensorflow-cnn-lstm/)
+Human Activity Recognition using TensorFlow (CNN + LSTM) [here](https://bleedai.com/human-activity-recognition-using-tensorflow-cnn-lstm/)
 
