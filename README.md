@@ -86,3 +86,10 @@ I tested and see LRCN is the most suitable with my data.
 ### Result 
 
 Can't run here, pls download to see result!!! [here](https://github.com/Quang111198/Prevent-OP-mising-operation/tree/main/vid)
+
+---
+
+### Reference
+
+Human Activity Recognition using TensorFlow (CNN + LSTM) [link](https://bleedai.com/human-activity-recognition-using-tensorflow-cnn-lstm/)
+
